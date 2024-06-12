@@ -27,3 +27,7 @@ A very important issue enters this system, which is health ethics, "Should human
 
 To test that our assistant meets what we need without negatively affecting what we have already proposed, we can carry out several simulations to check that it works correctly, as they can; ask as a completely healthy patient, then changing to a patient with symptoms of mild illnesses and finally as a patient with a more serious illness.
 The output we expect from these simulations would be to obtain coherent responses depending on the patient, in addition to not obtaining information that could negatively affect health, such as generating self-medication, as well as not obtaining false or irrelevant information.
+
+# Interaction and synergy
+
+In our system we have two key subsystems, recommendations and diseases, both are separate but at the same time they go hand in hand, since the recommendations can be to prevent several diseases or one specific one, at the same time that the diseases have their own recommendations that prevent such a disease, therefore both subsystems are interrelated to be able to get what we need in our assistant.
