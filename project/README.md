@@ -22,3 +22,8 @@ So in this case, mainly in the health system, the source of information used are
 # Ethical operation
 
 A very important issue enters this system, which is health ethics, "Should human health be left in the hands of a computer?" For this reason, we also limit our system to only disease prevention and this should not replace the review of a professional doctor, it would only help a person to know and use healthy habits that can help reduce the risk of suffering. diseases.
+
+# Simulation
+
+To test that our assistant meets what we need without negatively affecting what we have already proposed, we can carry out several simulations to check that it works correctly, as they can; ask as a completely healthy patient, then changing to a patient with symptoms of mild illnesses and finally as a patient with a more serious illness.
+The output we expect from these simulations would be to obtain coherent responses depending on the patient, in addition to not obtaining information that could negatively affect health, such as generating self-medication, as well as not obtaining false or irrelevant information.
